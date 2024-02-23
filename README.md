@@ -9,6 +9,6 @@ I'm a passionate developer who loves to code and bring ideas to life. Here's a b
 5. **Python Coder**: Whether it's web development with Django or data analysis with pandas, I can slither my way through Python.
 6. **Job Seeker**: I'm currently on the lookout for exciting opportunities to put my skills to use and grow as a developer.
 
-When I'm not coding, you can find me exploring new tech, contributing to open source, or brewing a fresh cup of coffee. ☕
+When I'm not coding, you can find me exploring new tech, contributing to open source, or at the movies. 🎞️
 
 Feel free to explore my repositories and let's get in touch if you'd like to collaborate!
